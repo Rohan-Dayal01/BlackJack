@@ -1,2 +1,2 @@
 # BlackJack
-Simple Black-Jack Game Simulator
+Simple Black-Jack Game Simulator.
